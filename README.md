@@ -36,9 +36,6 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 sns.set_color_codes('pastel')
 ```
 
-    /anaconda3/envs/py3/lib/python3.6/site-packages/statsmodels/tools/_testing.py:19: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
-      import pandas.util.testing as tm
-
 
 ## Setup & Querying Data
 
